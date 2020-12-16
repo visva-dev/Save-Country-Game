@@ -1,0 +1,32 @@
+{
+  "name": "save-country-game",
+  "version": "1.0.0",
+  "description": "JavaScript Phaser 3 shooter game",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visva-dev/Save-Country-Game.git"
+  },
+  "keywords": [
+    "phaser",
+    "3",
+    "javascript",
+    "game",
+    "shooter",
+    "rpg"
+  ],
+  "author": "Visvaldas Rapalis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visva-dev/Save-Country-Game/issues"
+  },
+  "homepage": "https://github.com/visva-dev/Save-Country-Game#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "phaser": "^3.50.0"
+  }
+}
